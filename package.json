@@ -1,0 +1,16 @@
+{
+  "name": "droptorrent",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^1.1.6",
+    "dropbox": "^0.10.3",
+    "torrent-stream": "^0.13.3"
+  }
+}

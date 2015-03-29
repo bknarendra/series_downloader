@@ -1,0 +1,10 @@
+constants:
+  redis:
+    host: 
+    port: 
+    password: 
+
+  series_to_monitor: ['Game Of Thrones', 'Castle'] # list of series you want downloads to be done for
+  mailgun_api_url: # if you have mail gun api server url
+  to_email: # ur email to send notification to when download is done
+  from_email: # from email
